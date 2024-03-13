@@ -1,0 +1,11 @@
+.bright{
+    background-color: beige;
+    width: 100vw;
+    height: 100vw;
+}
+
+.dark {
+    background-color: rgb(39, 36, 36);
+    width: 100vw;
+    height: 100vw;
+}

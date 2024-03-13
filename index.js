@@ -1,6 +1,7 @@
 import React from "react";
 import {createRoot} from 'react-dom/client'
-import { App } from "./app.jsx";
+import { App } from "./changePage.jsx";
+
 
 const root = document.getElementById('root')
 const reactDom = createRoot(root)
